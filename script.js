@@ -11,19 +11,19 @@ console.log(typeof quoteInput);
 // Array of predefined poster objects
 const posters = [
     {
-      image: 'https://media.istockphoto.com/id/1124532572/vector/big-smile-emoticon-with-thumbs-up.jpg?s=612x612&w=0&k=20&c=9DJwHpzMgBAkAYFAPVIvkjNKNN8tHZPlVFy5-d1uLjc=',
-      title: 'Smile',
-      quote: 'If You are sad just smile',
+      image: 'https://www.spieltimes.com/wp-content/uploads/2022/09/Narutos-story-of-Pain-is-an-ideological-battle-of-ends-and-means-2-1.jpg',
+      title: 'Season 8, Episode 11: "Pain to the World"',
+      quote: 'If You Don\'t Share Someone\'s Pain, You Can Never Understand Them, Feel Pain, Contemplate Pain, Accept Pain, Know Pain.',
     },
     {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ckSd1NpjK5Hsb_zx7Pl9Q6fKwxufBU3OOA&usqp=CAU',
-      title: 'be happy',
-      quote: 'why be sad if you can be happy',
+      title: 'Believe',
+      quote: 'Believe you can, and you\'re halfway there.',
     },
     {
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxOYka3wsOY8duZsCOM6HhxD4Gkxlxh0Pfw&usqp=CAU',
-      title: 'never',
-      quote: 'don\'t give up',
+      image: 'https://images.unsplash.com/photo-1533749047139-189de3cf06d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80',
+      title: 'Time',
+      quote: 'Don\'t watch the clock; do what it does. Keep going.',
     },
     // Add more poster objects as needed
   ];
